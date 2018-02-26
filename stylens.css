@@ -1,0 +1,38 @@
+html{
+    background-color: rgb(255,255,255)
+}
+.demo{
+    align-content: center;
+        position: relative;
+}
+
+.logo { text-align: left;
+    width: 15%;
+    height: 15%;
+    float: left;
+    
+}
+.tekst {
+    font-family: 'Lato'; font-size: 14px;
+}
+id {
+    text-align: center
+        
+}
+.kontakt{
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    color: darkviolet;
+}
+.o_nas{
+    text-align: center;
+    font-size: 24px;
+    color: blueviolet;
+}
+
+.w3-bar2 {
+    float: none;
+}
+.menu {
+    background-color: #FBFFD9
+}
